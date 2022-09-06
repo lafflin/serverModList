@@ -2,13 +2,14 @@
 
 - **INSTALL EVERYTHING IN 1.19 NOT 1.19.1**
 - Contact Max for help
-- If you hit any errors of confusion, please let me know so I can clarify here for future purposes.
+- If you hit any errors or points of confusion, please let me know so I can clarify here for future purposes.
 
 ## Table of Contents
 
 - [Fabric](#Fabric)
 - [Fresh Install](#Fresh-Install)
 - [Installation](#Installation)
+- [Common Issues](#Common-Issues)
 - [Patches](#Patches)
 - [Future Development](#Future-Development)
 
@@ -36,11 +37,16 @@ Once you have everything downloaded,
 2. This should open File explorer, and you should see a folder called ".minecraft"
 3. Inside of there, you should see a mods folder, open it. if you **DO NOT** see a mods folder, go ahead and create it by right clicking and creating it. Call the folder "mods" **NOTHING ELSE**
 4. Put every mod you downloaded into this folder now.
+   - _Recommended_ that when you put the mods in the mods folder from your downloads, drag and drop the files instead of copy and pasting them to save a bit of space on your computer.
 5. Finally, try to run Minecraft and hope
+
+## Common Issues
+
+- Allocate more RAM to you game. Here's a [Business Insider](https://www.businessinsider.com/guides/tech/how-to-allocate-more-ram-to-minecraft) article to show you how to give Minecraft more RAM if you do not know how to. If you have 16gb, I recommend 8gb allocated.
 
 ## Patches
 
-**NO CURRENTLY AVAILABLE PATCHES**
+- **NO CURRENTLY AVAILABLE PATCHES**
 
 - The main install is the most updated version, and cause no one else has been updating, it would be best to do a fresh install.
 
