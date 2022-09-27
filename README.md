@@ -46,11 +46,20 @@ Once you have everything downloaded,
 
 ## Patches
 
-- **NO CURRENTLY AVAILABLE PATCHES**
+- Patch 1.2
 
-- The main install is the most updated version, and cause no one else has been updating, it would be best to do a fresh install.
+  - adds a large swath of mods, some of which being When Dungeons Arise, Flight Rings, Luggage, and a whole bunch of other smaller decorative and performance mods.
+
+  - Notes:
+
+    - Iris has been added to the main mod list, when you install this patch, you WILL install IRIS. if you already have Iris installed, make sure to not use the new file for Iris. "If it ain't broke don't fix it."
+    - Sodium is still version 4.2 in this install. This is because it works with this version of Iris, upon switching it broken my game. "If it ain't broke don't fix it."
+    - UNFORTUNATELY, Twilight Forest is still on version 1.18.2 for Fabric, while Forge is at 1.19. I assume that the update is coming soon, and it will be added in a future update.
+
+  - [DOWNLOAD HERE](https://drive.google.com/drive/folders/1OMTHC4ogf8cTe7309u7NajZAkyTtPy4B?usp=sharing)
 
 ## Future Development
 
 - Will work on adding bukkit in the future
+- Looking to maybe add some magic mods in the future, could be cool if they aren't too wild.
 - If there are any mods you would like to be added let me know, I will look into it and see if it is possible.
